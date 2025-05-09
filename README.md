@@ -25,9 +25,10 @@
 1. Клонуйте репозиторій:
 
     `git clone https://github.com/yourusername/pyduel-pong.git`
+   
     `cd DuelPong`
 
-2. Встановіть залежності:
+3. Встановіть залежності:
 
     `pip install -r requirements.txt`
 
