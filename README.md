@@ -25,7 +25,7 @@
 
 1. Клонуйте репозиторій:
 
-    `git clone https://github.com/yourusername/pyduel-pong.git`
+    `git clone https://github.com/BlackPencil-69/DuelPong.git`
    
     `cd DuelPong`
 
